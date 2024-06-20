@@ -70,7 +70,3 @@ This project aims to de-anonymize illegal cryptocurrency transactions using data
 ## License
 
 Licensed under the MIT License.
-
-## Contact
-
-For more information, contact the project maintainer at [your.email@example.com](mailto:your.email@example.com).
